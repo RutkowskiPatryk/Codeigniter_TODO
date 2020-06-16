@@ -1,0 +1,20 @@
+nav {
+    margin-bottom: 3%;
+}
+
+h3 {
+    margin-top: 5%;
+}
+
+li a {
+    font-size: 15px;
+}
+
+.error p {
+    color: red;
+}
+
+h4 {
+    font-weight: 400;
+    margin-top: 3%;
+}
